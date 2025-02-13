@@ -10,5 +10,5 @@ spec:
     app: tomcat-app
   ports:
     - port: 80
-      targetPort: 8080 # container port
+      targetPort: 8080 
       nodePort: 30888
