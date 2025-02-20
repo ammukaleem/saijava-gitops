@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: tomcat-app
-        image: dockaleem/tomcat-app:v1.0-13434148199
+        image: dockaleem/tomcat-app:v1.0-13437041677
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
